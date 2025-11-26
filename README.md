@@ -70,17 +70,5 @@ Still Googling things… but now I Google **smarter** 😆
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40">
 </p>
 
----
 
-<p>
-  <img 
-    align="left" 
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=yatharth&show_icons=true&locale=en&layout=compact&theme=radical" 
-  />
-</p>
-
-<img 
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=yatharth&show_icons=true&theme=radical" 
 />
